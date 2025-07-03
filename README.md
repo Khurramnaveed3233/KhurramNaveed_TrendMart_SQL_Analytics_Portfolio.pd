@@ -2,6 +2,8 @@
 
 [KhurramNaveed_TrendMart_SQL_Analytics_Portfolio.pd.pdf](https://github.com/user-attachments/files/21034682/KhurramNaveed_TrendMart_SQL_Analytics_Portfolio.pd.pdf)
 
+![a-modern-professional-cover-image-for-a-_yyVqNUQWTdeTM_430rVZdw_e3OtWcbSR5m0YqBeW5ajLg](https://github.com/user-attachments/assets/e6161ac3-77db-41b1-970f-a4b411046247)
+
 
 ## 📊 Project Overview
 
