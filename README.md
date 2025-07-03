@@ -1,6 +1,7 @@
 # 🛍️ TrendMart Sales Analysis – SQL & Power BI Portfolio Project
 
-![Cover](https://your-image-link-here.com) <!-- (Optional) Add your project banner image -->
+[KhurramNaveed_TrendMart_SQL_Analytics_Portfolio.pd.pdf](https://github.com/user-attachments/files/21034682/KhurramNaveed_TrendMart_SQL_Analytics_Portfolio.pd.pdf)
+
 
 ## 📊 Project Overview
 
@@ -125,8 +126,8 @@ This project demonstrates how **structured SQL analysis** combined with **Power 
 **Name:** Khurram Naveed  
 **Role:** Aspiring Data Analyst  
 **Tools:** SQL Server | Power BI | Excel  
-**LinkedIn:** [linkedin.com/in/khurramnaveed](https://linkedin.com/in/khurramnaveed)  
-**Email:** khurramnaveed000@gmail.com
+**LinkedIn:**  https://www.linkedin.com/in/khurram-naveed-0083851aa/
+**Email:** khurramnaveed4545@gmail.com
 
 ---
 
