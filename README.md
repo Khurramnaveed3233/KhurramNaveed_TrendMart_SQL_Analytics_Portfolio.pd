@@ -78,10 +78,12 @@ This project presents a comprehensive sales analysis for a fictional retail comp
 
 ## 📊 Sample Visuals (Power BI Screenshots)
 
-| Power BI Dashboard | SQL Query Snapshot |
-|--------------------|---------------------|
-| ![Monthly Revenue](images/monthly_revenue_chart.png) | ![SQL Query](images/sql_monthly_revenue.png) |
-| ![Customer Segmentation](images/customer_segmentation_chart.png) | ![SQL Query](images/sql_customer_segment.png) |
+![00](https://github.com/user-attachments/assets/fc69c401-c5f3-4465-b89e-a063e836c026)
+
+![01](https://github.com/user-attachments/assets/40982494-01cf-4831-a71a-dbdc92f1fb87)
+
+![03](https://github.com/user-attachments/assets/74105291-3ac2-42fb-b71a-9a8bcbc3c3e5)
+
 
 > 📁 All visuals and queries are included in the full project PDF:  
 > [🔗 Download TrendMart_Sales_Analysis.pdf](your-link-here)
